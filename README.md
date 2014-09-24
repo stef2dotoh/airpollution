@@ -1,6 +1,6 @@
 # Air Pollution
 
-My first programming assignment for Coursera Data Science Specialization course R Programming.  The requirement was to write three functions to interact with an air pollution dataset. The dataset is contained in a zip file specdata.zip.
+My first programming assignment for [Coursera Data Science Specialization] (https://www.coursera.org/specialization/jhudatascience/1) course [R Programming] (https://www.coursera.org/course/rprog).  The requirement was to write three functions to interact with an air pollution dataset. The dataset is contained in a zip file *specdata.zip*.
 
 ## Data
 
